@@ -1,0 +1,10 @@
+E:\ProgramD\C#\Lemon\WebRole\bin\WebRole.dll
+E:\ProgramD\C#\Lemon\WebRole\bin\WebRole.pdb
+E:\ProgramD\C#\Lemon\WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\ProgramD\C#\Lemon\WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\ProgramD\C#\Lemon\WebRole\bin\System.Web.Providers.dll
+E:\ProgramD\C#\Lemon\WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\ProgramD\C#\Lemon\WebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\ProgramD\C#\Lemon\WebRole\obj\Debug\ResolveAssemblyReference.cache
+E:\ProgramD\C#\Lemon\WebRole\obj\Debug\WebRole.dll
+E:\ProgramD\C#\Lemon\WebRole\obj\Debug\WebRole.pdb

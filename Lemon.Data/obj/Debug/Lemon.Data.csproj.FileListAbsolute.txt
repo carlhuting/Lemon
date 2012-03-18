@@ -1,0 +1,11 @@
+E:\ProgramD\C#\Lemon\Lemon.Data\obj\Debug\ResolveAssemblyReference.cache
+E:\ProgramD\C#\Lemon\Lemon.Data\bin\Debug\Lemon.Data.dll
+E:\ProgramD\C#\Lemon\Lemon.Data\bin\Debug\Lemon.Data.pdb
+E:\ProgramD\C#\Lemon\Lemon.Data\bin\Debug\Microsoft.WindowsAzure.CloudDrive.dll
+E:\ProgramD\C#\Lemon\Lemon.Data\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+E:\ProgramD\C#\Lemon\Lemon.Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+E:\ProgramD\C#\Lemon\Lemon.Data\bin\Debug\Microsoft.WindowsAzure.CloudDrive.xml
+E:\ProgramD\C#\Lemon\Lemon.Data\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+E:\ProgramD\C#\Lemon\Lemon.Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+E:\ProgramD\C#\Lemon\Lemon.Data\obj\Debug\Lemon.Data.dll
+E:\ProgramD\C#\Lemon\Lemon.Data\obj\Debug\Lemon.Data.pdb

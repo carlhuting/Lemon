@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Floders</h2>
+@foreach (var item in Model)
+{ 
+    <div>
+   <h3>@item.Name</h3> 
+   <h3>@item.CreatedOn</h3>
+    </div>
+    
+}
+@Html.ActionLink("Create Floder", "Create", "Floder");
